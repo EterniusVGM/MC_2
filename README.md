@@ -1,2 +1,2 @@
-# MC_2
-Mini-Cormen 2, Algorithms and Data Structures
+# Мини-Кормен 2
+Конспекты по Алгоритмам за 2 курс ПМИ ФКН.
